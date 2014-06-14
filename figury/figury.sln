@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C# Express 2008
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "figury", "figury\figury.csproj", "{45CB0E67-848C-4A51-B453-B36EC92977A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bu", "figury\bu.csproj", "{45CB0E67-848C-4A51-B453-B36EC92977A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
